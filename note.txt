@@ -1,0 +1,4 @@
+Problems I Faced
+1) In the navbar I faced difficulty in bringing the logo and the unordered list closer to each other.
+2) In the testimonials I was not able to put the statements of clients next to their picture.
+3) Along with image text opacity was also disturbed.
